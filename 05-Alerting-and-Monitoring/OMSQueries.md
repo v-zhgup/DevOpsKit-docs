@@ -3,7 +3,7 @@
 ### Contents
 - [Overview](OMSQueries.md#overview)
 - [Local effective scan result](OMSQueries.md#Local-effective-scan-result)
-- [CA Complete Scan Results](OMSQueries.md#CA-Complete-Scan-Results)
+- [CA Complete Scan Results](OMSQueries.md#ca-complete-scan-results)
 
 --------------------------
 ### Overview: 
